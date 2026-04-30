@@ -27,7 +27,7 @@ function checkPassword() {
         
         // Redireciona após 1 segundo
         setTimeout(() => {
-            window.location.href = "level2.html";
+            window.location.href = "gbbvhtuyerwibvhubsehuibvfyuewohurhfb.html";
         }, 1000);
     } else {
         message.textContent = "✗ Senha incorreta. Tente novamente.";
